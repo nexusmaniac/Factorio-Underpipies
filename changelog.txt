@@ -1,5 +1,10 @@
 ---------------------------------------------------------------------------------------------------
-Version: 1.0.0 - First public release
+Version: 1.0.1 - Second public release
 Date: 24. 3. 2020
   Major Features:
-    - Initial release; support for base.
+    - Fix the thumbnail.
+    ---------------------------------------------------------------------------------------------------
+    Version: 1.0.0 - First public release
+    Date: 24. 3. 2020
+      Major Features:
+        - Initial release; support for base.

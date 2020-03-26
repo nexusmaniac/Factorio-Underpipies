@@ -10,3 +10,10 @@ Credits:
 --------
 
 The original Reddit thread that spawned this idea is: https://www.reddit.com/r/factorio/comments/5yi071/need_your_help_in_settling_a_debate_with_gf
+
+
+Additional info:
+---
+
+GitHub: https://github.com/nexusmaniac/Factorio-Underpipies
+Factorio Mod Portal: https://mods.factorio.com/mod/Underpipies
